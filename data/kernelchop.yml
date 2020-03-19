@@ -1,0 +1,9 @@
+--- !ruby/object:Hangman
+word: '_____
+
+'
+compare: "pave\r\n"
+count: 0
+max: 6
+length: 6
+letter: S

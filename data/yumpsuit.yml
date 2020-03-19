@@ -1,0 +1,7 @@
+--- !ruby/object:Hangman
+word: "m_l_c_an\r_"
+compare: "moluccan\r\n"
+count: 3
+max: 6
+length: 10
+letter: S

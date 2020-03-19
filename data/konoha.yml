@@ -1,0 +1,9 @@
+--- !ruby/object:Hangman
+word: 'an__o___e_
+
+'
+compare: "anchorite\r\n"
+count: 0
+max: 6
+length: 11
+letter: S
